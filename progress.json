@@ -10,5 +10,16 @@
     ],
     "updatedAt": "2026-06-12T09:50:06.171Z",
     "difficulty": "Medium"
+  },
+  "two-sum": {
+    "id": 1,
+    "status": "needs_review",
+    "language": "java",
+    "topics": [
+      "Array",
+      "Hash Table"
+    ],
+    "updatedAt": "2026-06-12T09:50:18.256Z",
+    "difficulty": "Easy"
   }
 }
