@@ -90,5 +90,16 @@
     ],
     "updatedAt": "2026-06-12T09:51:23.587Z",
     "difficulty": "Easy"
+  },
+  "remove-duplicates-from-sorted-array": {
+    "id": 26,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "Array",
+      "Two Pointers"
+    ],
+    "updatedAt": "2026-06-13T12:31:12.359Z",
+    "difficulty": "Easy"
   }
 }
