@@ -93,13 +93,13 @@
   },
   "remove-duplicates-from-sorted-array": {
     "id": 26,
-    "status": "understood",
+    "status": "not_understood",
     "language": "Java",
     "topics": [
       "Array",
       "Two Pointers"
     ],
-    "updatedAt": "2026-06-13T12:31:12.359Z",
+    "updatedAt": "2026-06-13T15:51:10.858Z",
     "difficulty": "Easy"
   },
   "valid-parentheses": {
