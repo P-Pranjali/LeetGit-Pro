@@ -101,5 +101,16 @@
     ],
     "updatedAt": "2026-06-13T12:31:12.359Z",
     "difficulty": "Easy"
+  },
+  "valid-parentheses": {
+    "id": 20,
+    "status": "understood",
+    "language": "Java",
+    "topics": [
+      "String",
+      "Stack"
+    ],
+    "updatedAt": "2026-06-13T13:53:14.247Z",
+    "difficulty": "Easy"
   }
 }
