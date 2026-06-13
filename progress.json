@@ -104,13 +104,13 @@
   },
   "valid-parentheses": {
     "id": 20,
-    "status": "understood",
+    "status": "needs_review",
     "language": "Java",
     "topics": [
       "String",
       "Stack"
     ],
-    "updatedAt": "2026-06-13T13:53:14.247Z",
+    "updatedAt": "2026-06-13T14:06:47.816Z",
     "difficulty": "Easy"
   }
 }
